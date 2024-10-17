@@ -13,13 +13,19 @@ Key Features of the Order Class:
 
 -Attributes:
       orderId,
+      
       orderDate,
+      
       orderStatus,
+      
       orderTotal
               
 -Methods:
+
       -checkOrder(): Looks up and verifies the status of an order
+      
       -cancelOrder(): Handles canceling an order
+      
       -placeOrder(): Handles the placement of new orders.
             
 ![image](https://github.com/user-attachments/assets/28fa4600-db53-40cd-8036-9f78bfc66a4f)
@@ -39,8 +45,11 @@ The Order class demonstrates the SRP in the following ways:
 Future Enhancements
 
 If we were tasked with making a complex system, you could argue that it would be better to seperate the Order class into distinct classes such as:
+
 -OrderStatusChecker
+
 -OrderCancelService
+
 -OrderPlacementService
 
 UML Diagram
