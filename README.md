@@ -1,10 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/YfvsP8Zh)
 
 Project Overview
+
 This project tasked us with creating a basic UML diagram for an online Courier System, and to provide a code snippet example of how we are implementing one of the SOLID principles.
 
 
 Order Class
+
 I decided to go with the Order class as my code snippet. This class is responsible for handling operations of an order.
 
 Key Features of the Order Class:
@@ -34,12 +36,14 @@ The Order class demonstrates the SRP in the following ways:
 
 
 Future Enhancements
+
 If we were tasked with making a complex system, you could argue that it would be better to seperate the Order class into distinct classes such as:
 -OrderStatusChecker
 -OrderCancelService
 -OrderPlacementService
 
 UML Diagram
+
 The UML diagram has been included in the repo.
 
 
