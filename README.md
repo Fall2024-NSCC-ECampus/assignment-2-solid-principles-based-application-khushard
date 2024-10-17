@@ -12,6 +12,7 @@ I decided to go with the Order class as my code snippet. This class is responsib
 Key Features of the Order Class:
 
 -Attributes:
+
       orderId,
       
       orderDate,
