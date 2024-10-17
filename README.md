@@ -10,6 +10,7 @@ Order Class
 I decided to go with the Order class as my code snippet. This class is responsible for handling operations of an order.
 
 Key Features of the Order Class:
+
 -Attributes:
       orderId,
       orderDate,
